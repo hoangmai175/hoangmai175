@@ -1,74 +1,88 @@
 # 👋 Hi, I'm Tran Ngoc Hoang Mai
 
-**Backend Developer Intern** passionate about building reliable, efficient systems and clean APIs.  
-I enjoy diving into databases, authentication flows, and system architecture.
+**Manual & Automation Tester** — Final-year IT student with hands-on experience across 3 real-world projects, 320+ test cases written, and 80+ bugs detected. Passionate about software quality and continuously improving my automation skills.
 
-📍 Based in Vietnam · 💼 1 year experience · 🚀 Open to full‑time opportunities
+📍 Ho Chi Minh City, Vietnam · 🎯 Seeking QA Tester position · 🚀 Open to full-time opportunities
 
 ---
 
+## 📊 Quick Stats
+
+| 🧪 320+ Test Cases | 🐛 80+ Bugs Detected | 📁 3 Projects | ✅ 100% Req. Coverage |
+|---|---|---|---|
+
+---
 ## 🧠 About Me
 
-- 🎓 Computer Science student 
-- 💻 Backend intern with hands‑on experience in Node.js, Express, and PostgreSQL
-- 🔍 Constantly learning about database optimization, system design, and distributed systems
-- 📚 Love solving LeetCode problems and exploring open‑source backend projects
-- 🌱 Currently deepening my knowledge of microservices and cloud deployment
+- 🎓 IT Student at Saigon University (2022–2027)
+- 🔍 Proficient in Manual Testing with practical Automation experience using Selenium WebDriver
+- 🐛 Passionate about finding bugs, analyzing requirements, and ensuring software quality
+- 📋 Experienced in writing Test Plans, Test Cases, and weekly testing reports
+- 🌱 Currently deepening knowledge in Automation Testing and API Testing
 
 ---
+## 🛠 Skills & Technologies
 
-## ⚡ Quick Facts
+### Testing
+![Manual Testing](https://img.shields.io/badge/-Manual_Testing-0052CC?style=flat)
+![Black/White Box](https://img.shields.io/badge/-Black%2FWhite_Box-0052CC?style=flat)
+![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-0052CC?style=flat)
+![Test Plan Creation](https://img.shields.io/badge/-Test_Plan_Creation-0052CC?style=flat)
+![API Testing](https://img.shields.io/badge/-API_Testing-0052CC?style=flat)
+![Gherkin/Cucumber](https://img.shields.io/badge/-Gherkin%2FCucumber-0052CC?style=flat)
 
-- 🌍 Based in Vietnam
-- ⏳ 1 year of internship/personal project experience
-- 🧰 Tech stack: Node.js, Express, Python, PostgreSQL, MongoDB, REST APIs
-- 🧠 Strong fundamentals: Data Structures, OOP, HTTP, basic System Design
-- 🤝 Experience working in teams (5+ members)
-
----
-
-## 🛠️ Skills & Technologies
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-02569B?style=flat&logo=swagger&logoColor=white)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### Automation & Tools
+![Selenium](https://img.shields.io/badge/-Selenium_WebDriver-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### Fundamentals
-![Data Structures & Algorithms](https://img.shields.io/badge/-DSA-0A0A0A?style=flat)
-![OOP](https://img.shields.io/badge/-OOP-0A0A0A?style=flat)
-![HTTP](https://img.shields.io/badge/-HTTP-0A0A0A?style=flat)
-![System Design (Basic)](https://img.shields.io/badge/-System_Design-0A0A0A?style=flat)
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **E‑Commerce Platform** | Modern e‑commerce with product management, real‑time inventory, and Stripe checkout. | Next.js, React, Stripe, TypeScript |
-| **Task Management App** | Collaborative task app with real‑time updates, team workspaces, and analytics. | React, Node.js, WebSocket, MongoDB |
-| **AI Content Generator** | AI‑powered content generation tool with customizable templates. | Next.js, OpenAI, TailwindCSS, Vercel |
-| **Analytics Dashboard** | Real‑time dashboard with interactive charts and customizable metrics. | React, Chart.js, Redux, Node.js |
-
-
+### Programming Languages
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-## 📫 Let's Connect
+## 💼 Work Experience
+
+### 🏢 Smart Chain AI Academy — Intern Manual Tester *(May 2025 – Aug 2025)*
+- Designed Test Plans and manual testing strategies for the Metanode management system
+- Executed **200+ test cases** using Black-box/White-box techniques, detecting **50+ UI/UX bugs**
+- Prepared weekly testing reports and collaborated closely with the development team
+- **Tools:** Postman, Jira, Git/GitHub, Selenium WebDriver
+
+### 📱 Phone Sales Management Web App — Tester *(Feb 2025 – Apr 2025)*
+- Wrote **70+ test cases** covering product management, order processing, inventory, and revenue reporting
+- Achieved **100% requirement coverage** using Black-box/White-box techniques
+- Automated UI testing with Selenium WebDriver
+- **Tools:** Selenium, Postman, Jira, Git/GitHub
+
+### 💻 Computer Management Software — Tester *(Oct 2024 – Nov 2024)*
+- Analyzed requirement specifications and designed **50+ test cases**
+- Performed functional testing and detected **15+ bugs** related to inventory import/export operations
+- **Tools:** Black-box/White-box testing techniques
+
+---
+
+## 🎓 Education
+
+**Saigon University** — Bachelor of Information Technology *(2022 – 2027)*  
+Currently enrolled
+
+---
+
+## 🤝 Soft Skills
+
+`Teamwork` · `Attention to Detail` · `Time Management` · `Analytical Thinking`
+
+---
+## 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/-hm534875@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hm534875@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername) <!-- Thay link của bạn -->
+[![GitHub](https://img.shields.io/badge/-hoangmai175-181717?style=flat&logo=github&logoColor=white)](https://github.com/hoangmai175)
+[![Phone](https://img.shields.io/badge/-+84_794_954_596-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+84794954596)
 
 ---
 
-⭐️ *Thanks for stopping by! Feel free to reach out if you'd like to collaborate or just chat about backend development.*
